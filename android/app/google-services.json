@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "267523114213",
+    "project_id": "widgetpracice",
+    "storage_bucket": "widgetpracice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267523114213:android:2448e5a93646f1229f800c",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267523114213-5cvd9pk26db9u77dm76354h94fhvbomn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authapp",
+            "certificate_hash": "a564f798e1300e9704487fab9007de30639efaac"
+          }
+        },
+        {
+          "client_id": "267523114213-b827jdkhkqcpkdg8fuuho5g6anfl0jo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-MoE6AAsWagxnMwF46d-9DYmStaHvNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267523114213-b827jdkhkqcpkdg8fuuho5g6anfl0jo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267523114213-33jtvmf61qiv68a71mp7p39aa9pl3vsi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authenticationrevision"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267523114213:android:455013cae73730b99f800c",
+        "android_client_info": {
+          "package_name": "com.example.widgetpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267523114213-nfi6ech2q8s9rqiuene54sl7j77kof6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.widgetpractice",
+            "certificate_hash": "a564f798e1300e9704487fab9007de30639efaac"
+          }
+        },
+        {
+          "client_id": "267523114213-b827jdkhkqcpkdg8fuuho5g6anfl0jo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-MoE6AAsWagxnMwF46d-9DYmStaHvNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267523114213-b827jdkhkqcpkdg8fuuho5g6anfl0jo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267523114213-33jtvmf61qiv68a71mp7p39aa9pl3vsi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authenticationrevision"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267523114213:android:9b1dbc7e788a76c19f800c",
+        "android_client_info": {
+          "package_name": "com.example.widgetsrevision.widgetsrevision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267523114213-b827jdkhkqcpkdg8fuuho5g6anfl0jo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-MoE6AAsWagxnMwF46d-9DYmStaHvNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267523114213-b827jdkhkqcpkdg8fuuho5g6anfl0jo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267523114213-33jtvmf61qiv68a71mp7p39aa9pl3vsi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authenticationrevision"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
